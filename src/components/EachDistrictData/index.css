@@ -1,0 +1,26 @@
+.style {
+  display: flex;
+  width: 250px;
+  padding: 0px 20px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  list-style-type: none;
+}
+
+.numbers {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  margin-right: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+}
+.names {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  margin-right: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+}

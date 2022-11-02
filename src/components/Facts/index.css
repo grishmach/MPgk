@@ -1,0 +1,10 @@
+.facts {
+  color: #ff073a;
+  font-family: 'Roboto';
+  list-style: square;
+  font-style: normal;
+  font-weight: 450px;
+  font-size: 12px;
+  margin-bottom: 20px;
+  line-height: 30px;
+}

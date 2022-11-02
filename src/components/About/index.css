@@ -1,0 +1,33 @@
+.about-container {
+  width: 80%;
+  margin-top: 64px;
+  text-align: left;
+}
+.title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  color: #f8fafc;
+}
+.description {
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 25px;
+  color: #94a3b8;
+}
+.vaccine-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #e2e8f0;
+}
+
+.fact {
+  margin-top: 30px;
+  list-style-type: none;
+}

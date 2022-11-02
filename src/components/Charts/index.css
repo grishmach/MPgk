@@ -1,0 +1,51 @@
+.barcharts-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+.charts {
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 35px;
+  overflow-x: auto;
+}
+.confirmed-background {
+  background-color: #331427;
+}
+.active-background {
+  background-color: #132240;
+}
+.recovered-background {
+  background-color: #182829;
+}
+.deceased-background {
+  background-color: #1c1c2b;
+}
+.tested-background {
+  background-color: #2304f1;
+}
+.charts-title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+  color: #cbd5e1;
+}
+.barchart-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.chart-wrapper {
+  overflow-x: auto;
+}
+@media (max-width: 600px) {
+  .charts {
+    width: 100%;
+  }
+}
